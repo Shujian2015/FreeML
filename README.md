@@ -127,9 +127,9 @@ The self-driving car is a really hot topic recently. Take a look at this short c
 
 ## Bayesian:
 ### - Courses:
-  * Bayesian Statistics: From Concept to Data Analysis: https://www.coursera.org/learn/bayesian-statistics
-  * Bayesian Methods for Machine Learning: https://www.coursera.org/learn/bayesian-methods-in-machine-learning
-  * Statistical Rethinking: http://xcelab.net/rm/statistical-rethinking/ (Recorded Lectures: Winter 2015, Fall 2017)
+  * Bayesian Statistics: From Concept to Data Analysis: [Coursera](https://www.coursera.org/learn/bayesian-statistics)
+  * Bayesian Methods for Machine Learning: [Coursera](https://www.coursera.org/learn/bayesian-methods-in-machine-learning)
+  * Statistical Rethinking: [Course Page](http://xcelab.net/rm/statistical-rethinking/) (Recorded Lectures: Winter 2015, Fall 2017)
 
 ### - Book:
   * Bayesian Data Analysis, Third Edition
@@ -143,13 +143,11 @@ The self-driving car is a really hot topic recently. Take a look at this short c
 
 ## Time series:
 ### - Courses:
-  * Time Series Forecasting (Udacity): udacity.com/course/time-series-forecasting--ud980
-  * Topics in Mathematics with Applications in Finance (MIT): 
-  * https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/
-  * https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR
+  * Time Series Forecasting (Udacity): [Udacity](udacity.com/course/time-series-forecasting--ud980)
+  * Topics in Mathematics with Applications in Finance (MIT): [Course page](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/), [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
 
 ### - Books:
-  * Time Series Analysis and Its Applications: http://www.springer.com/us/book/9783319524511
+  * Time Series Analysis and Its Applications: [Springer](http://www.springer.com/us/book/9783319524511)
 
 ### - With LSTM:
   * https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
