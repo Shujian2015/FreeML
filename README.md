@@ -1,4 +1,4 @@
-# Data Science resources (Mostly Free)
+# Data Science Resources (Mostly Free)
 
 ***
 
@@ -19,7 +19,7 @@ http://cs229.stanford.edu/syllabus.html)
   * Computer Age Statistical Inference: Algorithms, Evidence, and Data Science: [pdf](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)  
   * The Elements of Statistical Learning: [pdf](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
-
+***
 
 
 ## Natural Language Processing: 
@@ -40,7 +40,7 @@ http://cs229.stanford.edu/syllabus.html)
   * http://www.nltk.org/
   * https://nlp.stanford.edu/software/
 
-
+***
 
 ## Deep Learning
 
@@ -60,6 +60,9 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   * LSTM: [My collection](https://www.linkedin.com/pulse/ml-4-shujian-liu/)
 
 
+***
+
+
 ## Reinforcement Learning:
 ### - Videos:
   * UCL Course on RL by David Silver: [Course page](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
@@ -68,7 +71,22 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   * Reinforcement Learning: An Introduction (2nd): [pdf](http://incompleteideas.net/book/the-book-2nd.html)
 
 
-
+***
+  
+## Analytics:
+  * Lean Analytics: [Amazon](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/B00AG66LTM/)
+  * Data Science for Business: [Amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
+  * Data Smart: [Amazon](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/)
+  * Storytelling with Data: [Amazon](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
+  
+  
+  
+  
+***  
+  
+  
+  
+  
 ## Others:
   * Recommender System by UMN: [Coursera](https://www.coursera.org/specializations/recommender-systems) 
   * Mining Massive Datasets by Stanford: [Free book](http://www.mmds.org/), [Course](http://online.stanford.edu/course/mining-massive-datasets-self-paced)
@@ -76,13 +94,7 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   * Database by Stanford: [Course](http://online.stanford.edu/course/databases-self-paced)
   
   
-  
-  
-## Analytics:
-  * Lean Analytics: [Amazon](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/B00AG66LTM/)
-  * Data Science for Business: [Amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
-  * Data Smart: [Amazon](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/)
-  * Storytelling with Data: [Amazon](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
+*** 
   
   
 ## Interviews:
@@ -111,7 +123,7 @@ The self-driving car is a really hot topic recently. Take a look at this short c
 
 # Topics to Learn ->
 
-
+*** 
 
 ## Bayesian:
 ### - Courses:
@@ -122,6 +134,10 @@ The self-driving car is a really hot topic recently. Take a look at this short c
 ### - Book:
   * Bayesian Data Analysis, Third Edition
   * Applied Predictive Modeling
+
+
+
+*** 
 
 
 
@@ -139,6 +155,11 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   * https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
   * https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
   * More: https://machinelearningmastery.com/?s=Time+Series&submit=Search
+
+
+
+*** 
+
 
 
 ## Quant:
