@@ -20,8 +20,7 @@ http://cs229.stanford.edu/syllabus.html)
 
 
 
-
-## NLP: 
+## Natural Language Processing: 
 ### - Videos:
   * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
   * Stanford - CS224n Natural Language Processing with Deep Learning: [Course web](http://web.stanford.edu/class/cs224n/), [Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
@@ -41,7 +40,7 @@ http://cs229.stanford.edu/syllabus.html)
 
 
 
-## DL: https://www.linkedin.com/pulse/materials-neural-networks-i-found-useful-shujian-liu/
+## Deep Learning
 
 ### - Videos:
   * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning). This specialization is so popular but only the first three (4 by Oct 31) courses are open. Prof. Ng covers all a lot of details and he is really a good teacher.
@@ -58,4 +57,12 @@ The self-driving car is a really hot topic recently. Take a look at this short c
  
 
 
-## RL
+## Reinforcement Learning:
+
+
+
+## Others:
+  * Recommender System by UMN: [Coursera](https://www.coursera.org/specializations/recommender-systems) 
+  * Mining Massive Datasets by Stanford: [Free book](http://www.mmds.org/), [Course](http://online.stanford.edu/course/mining-massive-datasets-self-paced)
+  * Introduction to Algorithms by MIT: [Course page with videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+  * Database by Stanford: [Course](http://online.stanford.edu/course/databases-self-paced)
