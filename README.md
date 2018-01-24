@@ -58,6 +58,11 @@ The self-driving car is a really hot topic recently. Take a look at this short c
 
 
 ## Reinforcement Learning:
+### - Videos:
+  * UCL Course on RL by David Silver: [Course page](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+  * CS 294: Deep Reinforcement Learning by UC Berkeley, Fall 2017: [Course page](http://rll.berkeley.edu/deeprlcourse/) 
+### - Books:
+  * Reinforcement Learning: An Introduction (2nd): [pdf](http://incompleteideas.net/book/the-book-2nd.html)
 
 
 
