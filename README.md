@@ -14,8 +14,9 @@ http://cs229.stanford.edu/syllabus.html)
 
 ### - Textbooks:
   * Introduction to Statistical Learning: [pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+  * Computer Age Statistical Inference: Algorithms, Evidence, and Data Science: [pdf](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)  
   * The Elements of Statistical Learning: [pdf](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-  * Computer Age Statistical Inference: Algorithms, Evidence, and Data Science: [pdf](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
+
 
 
 
@@ -41,5 +42,20 @@ http://cs229.stanford.edu/syllabus.html)
 
 
 ## DL: https://www.linkedin.com/pulse/materials-neural-networks-i-found-useful-shujian-liu/
+
+### - Videos:
+  * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning). This specialization is so popular but only the first three (4 by Oct 31) courses are open. Prof. Ng covers all a lot of details and he is really a good teacher.
+  * Tensorflow. Stanford CS20SI: [Youtube](https://www.youtube.com/playlist?list=PLQ0sVbIj3URf94DQtGPJV629ctn2c1zN-)
+  * Stanford 231n: Convolutional Neural Networks for Visual Recognition (Spring 2017): [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [Couse page](http://cs231n.stanford.edu/)
+  * Stanford 224n: Natural Language Processing with Deep Learning (Winter 2017): [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6), [Course page](http://web.stanford.edu/class/cs224n/)
+The self-driving car is a really hot topic recently. Take a look at this short course to see how it works. MIT 6.S094: Deep   * Learning for Self-Driving Cars: [Youtube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf), [Couse page](http://selfdrivingcars.mit.edu/)
+  * Neural Networks for Machine Learning by Hinton: [Coursera](https://www.coursera.org/learn/neural-networks). This course is so hard for me but it covers almost everything about neural networks. Prof. Hinton is the hero.
+
+### - Books:
+  * Deep learning book by Ian Goodfellow: http://www.deeplearningbook.org/. Very detailed reference book. 
+  * ArXiv for research updates: https://arxiv.org/. I found it the mobile version of Feedly is useful to follow ArXiv. Also, try https://deeplearn.org/ or http://www.arxiv-sanity.com/top.
+
+ 
+
 
 ## RL
