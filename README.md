@@ -88,9 +88,9 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   
   
 ## Systems:
-  * Docker Mastery: https://www.udemy.com/docker-mastery/learn/v4/overview
-  * The Ultimate Hands-On Hadoop: https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/learn/v4/overview  
-  * Spark and Python for Big Data with PySpark: https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/learn/v4/
+  * Docker Mastery: [Udemy](https://www.udemy.com/docker-mastery/learn/v4/overview)
+  * The Ultimate Hands-On Hadoop: [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/learn/v4/overview)  
+  * Spark and Python for Big Data with PySpark: [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/learn/v4)
   
   
   
@@ -192,4 +192,4 @@ The self-driving car is a really hot topic recently. Take a look at this short c
 
 ## More:
   * Computer Science courses with video lectures: https://github.com/Developer-Y/cs-video-courses
-  * The Open Source Data Science Masters: http://datasciencemasters.org/
+  * The Open Source Data Science Masters: http://datasciencemasters.org
