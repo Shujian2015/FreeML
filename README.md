@@ -169,7 +169,7 @@ The self-driving car is a really hot topic recently. Take a look at this short c
 
 ### - Courses:
   * Financial Markets with Robert Shiller (Yale): [Youtube](https://www.youtube.com/playlist?list=PL8FB14A2200B87185), [Coursera](https://www.coursera.org/learn/financial-markets-global)
-  * Topics in Mathematics with Applications in Finance (MIT): [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR), []Course page](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+  * Topics in Mathematics with Applications in Finance (MIT): [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR), [Course page](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 
 ### - Other:
   * A Collection of Dice Problems: [pdf](http://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf)
