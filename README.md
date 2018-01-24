@@ -78,6 +78,19 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   * Data Science for Business: [Amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
   * Data Smart: [Amazon](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/)
   * Storytelling with Data: [Amazon](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
+    
+  
+  
+  
+***  
+  
+  
+  
+  
+## Systems:
+  * Docker Mastery: https://www.udemy.com/docker-mastery/learn/v4/overview
+  * The Ultimate Hands-On Hadoop: https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/learn/v4/overview  
+  * Spark and Python for Big Data with PySpark: https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/learn/v4/
   
   
   
