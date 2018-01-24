@@ -31,14 +31,14 @@ http://cs229.stanford.edu/syllabus.html)
   * Sequence Models by Andrew Ng on Coursera: [Coursera](https://www.coursera.org/learn/nlp-sequence-models)
 
 ### - Books:
-  * https://web.stanford.edu/~jurafsky/slp3/
-  * https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf
-  * Some chapters or sections of www.deeplearningbook.org
-  * http://u.cs.biu.ac.il/~yogo/nnlp.pdf (Goldberg also published a new book this year)
+  * Speech and Language Processing (3rd ed. draft): [Book](https://web.stanford.edu/~jurafsky/slp3/)
+  * An Introduction to Information Retrieval: [pdf](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
+  * Deep Learning (Some chapters or sections): [Book](www.deeplearningbook.org)
+  * A Primer on Neural Network Models for Natural Language Processing: [Paper](http://u.cs.biu.ac.il/~yogo/nnlp.pdf). Goldberg also published a new book this year
 
 ### - Packages:
-  * http://www.nltk.org/
-  * https://nlp.stanford.edu/software/
+  * NLTK: http://www.nltk.org/
+  * Standord packages: https://nlp.stanford.edu/software/
 
 ***
 
