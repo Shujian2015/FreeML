@@ -78,6 +78,13 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   
   
   
+## Analytics:
+  * Lean Analytics: [Amazon](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/B00AG66LTM/)
+  * Data Science for Business: [Amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
+  * Data Smart: [Amazon](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/)
+  * Storytelling with Data: [Amazon](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
+  
+  
 ## Interviews:
 
 
@@ -96,6 +103,9 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   * 20 questions to detect fake data scientists [Link](https://www.import.io/post/20-questions-to-detect-fake-data-scientists/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
   * Question on Glassdoor: [link](https://www.glassdoor.com/Interview/data-scientist-interview-questions-SRCH_KO0,14.htm)
   
+
+
+
 
 ***
 
@@ -133,8 +143,8 @@ The self-driving car is a really hot topic recently. Take a look at this short c
 
 ## Quant:
 ### - Books:
-  * Heard on the Street: Quantitative Questions from Wall Street Job Interviews by Timothy Falcon Crack: https://www.amazon.com/Heard-Street-Quantitative-Questions-Interviews/dp/0994138636/
-  * A Practical Guide To Quantitative Finance Interviews by Xinfeng Zhou: https://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438236662/
+  * Heard on the Street: Quantitative Questions from Wall Street Job Interviews by Timothy Falcon Crack: [Amazon]( https://www.amazon.com/Heard-Street-Quantitative-Questions-Interviews/dp/0994138636/)
+  * A Practical Guide To Quantitative Finance Interviews by Xinfeng Zhou: [Amazon](https://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438236662/)
 
 ### - Courses:
   * Financial Markets with Robert Shiller (Yale): [Youtube](https://www.youtube.com/playlist?list=PL8FB14A2200B87185), [Coursera](https://www.coursera.org/learn/financial-markets-global)
