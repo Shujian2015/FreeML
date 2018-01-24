@@ -1,4 +1,6 @@
-# FreeML
+# Data Science resources (Mostly Free)
+
+***
 
 ## Machine Learning:
 
@@ -54,7 +56,8 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   * Deep learning book by Ian Goodfellow: http://www.deeplearningbook.org/. Very detailed reference book. 
   * ArXiv for research updates: https://arxiv.org/. I found it the mobile version of Feedly is useful to follow ArXiv. Also, try https://deeplearn.org/ or http://www.arxiv-sanity.com/top.
 
- 
+### - Other: 
+  * LSTM: [My collection](https://www.linkedin.com/pulse/ml-4-shujian-liu/)
 
 
 ## Reinforcement Learning:
@@ -86,9 +89,57 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   * 45 Questions to test a data scientist on basics of Deep Learning (along with solution) [Link](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
   * 30 Questions to test a data scientist on Natural Language Processing [Link](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
   * Questions on Stackoverflow: [Link](https://stackoverflow.com/questions/tagged/machine-learning?sort=votes&pageSize=15)
-
+  * Compare two models: [My collection](https://www.linkedin.com/pulse/ml-2-shujian-liu/)
+  
 ### - Without Solutions:
-
   * Over 100 Data Science Interview Questions [Link](http://www.learndatasci.com/data-science-interview-questions/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
   * 20 questions to detect fake data scientists [Link](https://www.import.io/post/20-questions-to-detect-fake-data-scientists/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
   * Question on Glassdoor: [link](https://www.glassdoor.com/Interview/data-scientist-interview-questions-SRCH_KO0,14.htm)
+  
+
+***
+
+# Topics to Learn ->
+
+
+
+## Bayesian:
+### - Courses:
+  * Bayesian Statistics: From Concept to Data Analysis: https://www.coursera.org/learn/bayesian-statistics
+  * Bayesian Methods for Machine Learning: https://www.coursera.org/learn/bayesian-methods-in-machine-learning
+  * Statistical Rethinking: http://xcelab.net/rm/statistical-rethinking/ (Recorded Lectures: Winter 2015, Fall 2017)
+
+### - Book:
+  * Bayesian Data Analysis, Third Edition
+  * Applied Predictive Modeling
+
+
+
+## Time series:
+### - Courses:
+  * Time Series Forecasting (Udacity): udacity.com/course/time-series-forecasting--ud980
+  * Topics in Mathematics with Applications in Finance (MIT): 
+  * https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/
+  * https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR
+
+### - Books:
+  * Time Series Analysis and Its Applications: http://www.springer.com/us/book/9783319524511
+
+### - With LSTM:
+  * https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+  * https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+  * More: https://machinelearningmastery.com/?s=Time+Series&submit=Search
+
+
+## Quant:
+### - Books:
+  * Heard on the Street: Quantitative Questions from Wall Street Job Interviews by Timothy Falcon Crack: https://www.amazon.com/Heard-Street-Quantitative-Questions-Interviews/dp/0994138636/
+  * A Practical Guide To Quantitative Finance Interviews by Xinfeng Zhou: https://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438236662/
+
+### - Courses:
+  * Financial Markets with Robert Shiller (Yale): [Youtube](https://www.youtube.com/playlist?list=PL8FB14A2200B87185), [Coursera](https://www.coursera.org/learn/financial-markets-global)
+  * Topics in Mathematics with Applications in Finance (MIT): [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR), []Course page](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+
+### - Other:
+  * A Collection of Dice Problems: [pdf](http://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf)
+
