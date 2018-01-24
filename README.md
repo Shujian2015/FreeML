@@ -60,28 +60,9 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   * LSTM: [My collection](https://www.linkedin.com/pulse/ml-4-shujian-liu/)
 
 
-***
 
 
-## Reinforcement Learning:
-### - Videos:
-  * UCL Course on RL by David Silver: [Course page](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-  * CS 294: Deep Reinforcement Learning by UC Berkeley, Fall 2017: [Course page](http://rll.berkeley.edu/deeprlcourse/) 
-### - Books:
-  * Reinforcement Learning: An Introduction (2nd): [pdf](http://incompleteideas.net/book/the-book-2nd.html)
 
-
-***
-  
-## Analytics:
-  * Lean Analytics: [Amazon](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/B00AG66LTM/)
-  * Data Science for Business: [Amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
-  * Data Smart: [Amazon](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/)
-  * Storytelling with Data: [Amazon](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
-    
-  
-  
-  
 ***  
   
   
@@ -93,6 +74,33 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   * Spark and Python for Big Data with PySpark: [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/learn/v4)
   
   
+  
+  
+***
+  
+## Analytics:
+  * Lean Analytics: [Amazon](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/B00AG66LTM/)
+  * Data Science for Business: [Amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
+  * Data Smart: [Amazon](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/)
+  * Storytelling with Data: [Amazon](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
+
+
+
+
+***
+
+
+
+
+## Reinforcement Learning:
+### - Videos:
+  * UCL Course on RL by David Silver: [Course page](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+  * CS 294: Deep Reinforcement Learning by UC Berkeley, Fall 2017: [Course page](http://rll.berkeley.edu/deeprlcourse/) 
+### - Books:
+  * Reinforcement Learning: An Introduction (2nd): [pdf](http://incompleteideas.net/book/the-book-2nd.html)
+
+
+
   
   
 ***  
