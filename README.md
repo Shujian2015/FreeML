@@ -174,3 +174,11 @@ The self-driving car is a really hot topic recently. Take a look at this short c
 ### - Other:
   * A Collection of Dice Problems: [pdf](http://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf)
 
+
+
+***
+
+
+## More:
+  * Computer Science courses with video lectures: https://github.com/Developer-Y/cs-video-courses
+  * The Open Source Data Science Masters: http://datasciencemasters.org/
