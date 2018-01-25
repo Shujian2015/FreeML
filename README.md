@@ -1,5 +1,7 @@
 # Data Science Resources (Mostly Free)
 
+The first half is my learning path in the past two years while the second half is my plan for this year. Hope the list is helpful!
+
 ***
 
 ## Machine Learning:
