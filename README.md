@@ -21,6 +21,9 @@ http://cs229.stanford.edu/syllabus.html)
   * Computer Age Statistical Inference: Algorithms, Evidence, and Data Science: [pdf](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)  
   * The Elements of Statistical Learning: [pdf](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
+### - Comments:
+Statistical Learning is the introduction course. It is free to earn a certificate. It follows Introduction to Statistical Learning book closely. Coursera Stanford by Andrew Ng is another introduction course course and quite popular. Taking either of them is enough for most of data science positions. People wnat to go deeper can take 229 or 701 and read ESL book.
+
 ***
 
 
@@ -42,6 +45,9 @@ http://cs229.stanford.edu/syllabus.html)
   * NLTK: http://www.nltk.org/
   * Standord packages: https://nlp.stanford.edu/software/
 
+### - Comments:
+The basic NLP course by Stanford is the fundamental. SLP 3ed follows this course. After this, feel free to take one of the three NLP+DL courses. They basically cover same topics. The Stanford one have HWs available online. CMU one follows Goldberg's book. Deepmind one is much shorter.
+
 ***
 
 ## Deep Learning
@@ -61,7 +67,6 @@ The self-driving car is a really hot topic recently. Take a look at this short c
 
 ### - Other: 
   * LSTM: [My collection](https://www.linkedin.com/pulse/ml-4-shujian-liu/)
-
 
 
 
