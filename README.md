@@ -22,7 +22,7 @@ http://cs229.stanford.edu/syllabus.html)
   * The Elements of Statistical Learning: [pdf](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 ### - Comments:
-Statistical Learning is the introduction course. It is free to earn a certificate. It follows Introduction to Statistical Learning book closely. Coursera Stanford by Andrew Ng is another introduction course course and quite popular. Taking either of them is enough for most of data science positions. People wnat to go deeper can take 229 or 701 and read ESL book.
+Statistical Learning is the introduction course. It is free to earn a certificate. It follows Introduction to Statistical Learning book closely. Coursera Stanford by Andrew Ng is another introduction course course and quite popular. Taking either of them is enough for most of data science positions. People want to go deeper can take 229 or 701 and read ESL book.
 
 ***
 
@@ -46,7 +46,7 @@ Statistical Learning is the introduction course. It is free to earn a certificat
   * Standord packages: https://nlp.stanford.edu/software/
 
 ### - Comments:
-The basic NLP course by Stanford is the fundamental. SLP 3ed follows this course. After this, feel free to take one of the three NLP+DL courses. They basically cover same topics. The Stanford one have HWs available online. CMU one follows Goldberg's book. Deepmind one is much shorter.
+The basic NLP course by Stanford is the fundamental one. SLP 3ed follows this course. After this, feel free to take one of the three NLP+DL courses. They basically cover same topics. The Stanford one have HWs available online. CMU one follows Goldberg's book. Deepmind one is much shorter.
 
 ***
 
