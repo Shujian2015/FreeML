@@ -121,6 +121,8 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   * Mining Massive Datasets by Stanford: [Free book](http://www.mmds.org/), [Course](http://online.stanford.edu/course/mining-massive-datasets-self-paced)
   * Introduction to Algorithms by MIT: [Course page with videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
   * Database by Stanford: [Course](http://online.stanford.edu/course/databases-self-paced)
+  * How to Win a Data Science Competition: [Coursera](https://www.coursera.org/learn/competitive-data-science)
+  * How to finish a Data Challenge: [Kaggle EDA kernels](https://www.kaggle.com/kernels?sortBy=votes&group=everyone&pageSize=20)
   
   
 *** 
