@@ -68,7 +68,8 @@ The self-driving car is a really hot topic recently. Take a look at this short c
 ### - Other: 
   * LSTM: [My collection](https://www.linkedin.com/pulse/ml-4-shujian-liu/)
 
-
+### - Comments:
+Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can also be helpful. Learning one kind of DL packages is important, such as Keras, TF or Pytorch. People may choose a focus, either CV or NLP. People want to have deeper understanding of DL can take Hinton's course and read Part 3 of Goodfellow's book.
 
 
 ***  
