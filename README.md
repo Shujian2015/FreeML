@@ -53,13 +53,14 @@ The basic NLP course by Stanford is the fundamental one. SLP 3ed follows this co
 ## Deep Learning
 
 ### - Videos:
-  * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning). This specialization is so popular but only the first three (4 by Oct 31) courses are open. Prof. Ng covers all a lot of details and he is really a good teacher.
+  * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning). This specialization is so popular. Prof. Ng covers all a lot of details and he is really a good teacher.
   * Tensorflow. Stanford CS20SI: [Youtube](https://www.youtube.com/playlist?list=PLQ0sVbIj3URf94DQtGPJV629ctn2c1zN-)
   * Stanford 231n: Convolutional Neural Networks for Visual Recognition (Spring 2017): [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [Couse page](http://cs231n.stanford.edu/)
   * Stanford 224n: Natural Language Processing with Deep Learning (Winter 2017): [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6), [Course page](http://web.stanford.edu/class/cs224n/)
 The self-driving car is a really hot topic recently. Take a look at this short course to see how it works. 
   * MIT 6.S094: Deep Learning for Self-Driving Cars: [Youtube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf), [Couse page](http://selfdrivingcars.mit.edu/)
   * Neural Networks for Machine Learning by Hinton: [Coursera](https://www.coursera.org/learn/neural-networks). This course is so hard for me but it covers almost everything about neural networks. Prof. Hinton is the hero.
+  * FAST.ai: [Course](http://www.fast.ai/)
 
 ### - Books:
   * Deep learning book by Ian Goodfellow: http://www.deeplearningbook.org/. Very detailed reference book. 
@@ -69,7 +70,7 @@ The self-driving car is a really hot topic recently. Take a look at this short c
   * LSTM: [My collection](https://www.linkedin.com/pulse/ml-4-shujian-liu/)
 
 ### - Comments:
-Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can also be helpful. Learning one kind of DL packages is important, such as Keras, TF or Pytorch. People may choose a focus, either CV or NLP. People want to have deeper understanding of DL can take Hinton's course and read Part 3 of Goodfellow's book.
+Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can also be helpful. Learning one kind of DL packages is important, such as Keras, TF or Pytorch. People may choose a focus, either CV or NLP. People want to have deeper understanding of DL can take Hinton's course and read Part 3 of Goodfellow's book. Fast.ai has very practical courses.
 
 
 ***  
