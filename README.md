@@ -48,6 +48,9 @@ Statistical Learning is the introduction course. It is free to earn a certificat
 ### - Comments:
 The basic NLP course by Stanford is the fundamental one. SLP 3ed follows this course. After this, feel free to take one of the three NLP+DL courses. They basically cover same topics. The Stanford one have HWs available online. CMU one follows Goldberg's book. Deepmind one is much shorter.
 
+### - More:
+Some other people's collections: [NLP](https://github.com/keon/awesome-nlp), [DL-NLP](https://github.com/brianspiering/awesome-dl4nlp), [Speech and NLP](https://github.com/edobashira/speech-language-processing), [Speech](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers), [RNN](https://github.com/kjw0612/awesome-rnn)
+
 ***
 
 ## Deep Learning
@@ -104,6 +107,7 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 
 ## Reinforcement Learning:
 ### - Videos:
+  * Udacity: [Course](https://www.udacity.com/course/reinforcement-learning--ud600) 
   * UCL Course on RL by David Silver: [Course page](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
   * CS 294: Deep Reinforcement Learning by UC Berkeley, Fall 2017: [Course page](http://rll.berkeley.edu/deeprlcourse/) 
 ### - Books:
@@ -176,7 +180,7 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 
 ## Time series:
 ### - Courses:
-  * Time Series Forecasting (Udacity): [Udacity](udacity.com/course/time-series-forecasting--ud980)
+  * Time Series Forecasting (Udacity): [Udacity](https://www.udacity.com/course/time-series-forecasting--ud980)
   * Topics in Mathematics with Applications in Finance (MIT): [Course page](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/), [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
 
 ### - Books:
