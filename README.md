@@ -5,6 +5,23 @@ The first half is more or less my learning path in the past two years while the 
 Hope the list is helpful, especially to whom are not in CS major but interested in data science!
 
 ***
+## Table of Contents
+
+* [Machine Learning](#machine-learning)
+* [Natural Language Processing](#natural-language-processing)
+* [Deep Learning](#deep-learning)
+* [Systems](#systems)
+* [Analytics](#analytics)
+* [Reinforcement Learning](#reinforcement-learning)
+* [Other Courses](#others)
+* [Interviews](#interviews)
+* [Bayesian](#bayesian)
+* [Time series](#time-series)
+* [Quant](#quant)
+* [More Lists](#more)
+
+***
+
 
 ## Machine Learning:
 
