@@ -7,6 +7,7 @@ Hope the list is helpful, especially to whom are not in CS major but interested 
 ***
 ## Table of Contents
 
+* [One Month Plan](#one-month-plan)
 * [Machine Learning](#machine-learning)
 * [Natural Language Processing](#natural-language-processing)
 * [Deep Learning](#deep-learning)
@@ -21,7 +22,13 @@ Hope the list is helpful, especially to whom are not in CS major but interested 
 * [More Lists](#more)
 
 ***
+## One Month Plan:
 
+You may find the list overwhelming. Here is my suggestion if you want to have some basic understanding in one month:
+  * Stanford Statistical Learning ([Course page](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)) or Coursera Stanford by Andrew Ng ([Coursera](https://www.coursera.org/learn/machine-learning), [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN))
+  * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning)  
+  * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
+  * Keras in 30 sec: [link](https://keras.io/#getting-started-30-seconds-to-keras)
 
 ## Machine Learning:
 
