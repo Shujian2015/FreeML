@@ -28,7 +28,6 @@ You may find the list overwhelming. Here is my suggestion if you want to have so
   * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
   * Stanford Statistical Learning ([Course page](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)) or Coursera Stanford by Andrew Ng ([Coursera](https://www.coursera.org/learn/machine-learning), [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN))
   * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning)  
-  * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
   * Keras in 30 sec: [Link](https://keras.io/#getting-started-30-seconds-to-keras)
 
 ## Machine Learning:
