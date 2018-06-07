@@ -66,6 +66,7 @@ Statistical Learning is the introduction course. It is free to earn a certificat
   * An Introduction to Information Retrieval: [pdf](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
   * Deep Learning (Some chapters or sections): [Book](www.deeplearningbook.org)
   * A Primer on Neural Network Models for Natural Language Processing: [Paper](http://u.cs.biu.ac.il/~yogo/nnlp.pdf). Goldberg also published a new book this year
+  * [NLP by Jacob Eisenstein](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes). Free book draft
 
 ### - Packages:
   * NLTK: http://www.nltk.org/
