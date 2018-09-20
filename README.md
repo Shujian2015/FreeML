@@ -46,6 +46,7 @@ http://cs229.stanford.edu/syllabus.html)
   * Introduction to Statistical Learning: [pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
   * Computer Age Statistical Inference: Algorithms, Evidence, and Data Science: [pdf](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)  
   * The Elements of Statistical Learning: [pdf](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+  * Machine Learning Yearning: [Website](http://www.mlyearning.org/)
 
 ### - Comments:
 Statistical Learning is the introduction course. It is free to earn a certificate. It follows Introduction to Statistical Learning book closely. Coursera Stanford by Andrew Ng is another introduction course course and quite popular. Taking either of them is enough for most of data science positions. People want to go deeper can take 229 or 701 and read ESL book.
@@ -66,9 +67,9 @@ Statistical Learning is the introduction course. It is free to earn a certificat
   * An Introduction to Information Retrieval: [pdf](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
   * Deep Learning (Some chapters or sections): [Book](http://www.deeplearningbook.org)
   * A Primer on Neural Network Models for Natural Language Processing: [Paper](http://u.cs.biu.ac.il/~yogo/nnlp.pdf). Goldberg also published a new book this year
-  * [NLP by Jacob Eisenstein](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes). Free book draft
-  * [Deep Learning in Natural Language Processing by Deng, Li](https://www.springer.com/us/book/9789811052088)
-  * [Machine Learning Yearning](http://www.mlyearning.org/)
+  * NLP by Jacob Eisenstein: [pdf](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes). Free book draft
+  * Deep Learning in Natural Language Processing by Deng, Li: [Amazon](https://www.springer.com/us/book/9789811052088)
+
 
 ### - Packages:
   * NLTK: http://www.nltk.org/
