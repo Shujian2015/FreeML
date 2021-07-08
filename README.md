@@ -94,6 +94,7 @@ Some other people's collections: [NLP](https://github.com/keon/awesome-nlp), [DL
   * The self-driving car is a really hot topic recently. Take a look at this short course to see how it works. MIT 6.S094: Deep Learning for Self-Driving Cars: [Youtube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf), [Couse page](http://selfdrivingcars.mit.edu/)
   * Neural Networks for Machine Learning by Hinton: [Coursera](https://www.coursera.org/learn/neural-networks). This course is so hard for me but it covers almost everything about neural networks. Prof. Hinton is the hero.
   * FAST.ai: [Course](http://www.fast.ai/)
+  * IIT Madras - Mitesh Khapra's Deep Learning Course [YouTube](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ1r-2XrJ_GBzzS6I-f8yfRU). This course is a somewhat rigorous Deep Learning course which covers Deep Learning - CNNs, RNNs, Attention Methods etc with Probabilistic Graphical Models. [Course Page](https://www.cse.iitm.ac.in/~miteshk/CS6910.html)
 
 ### - Books:
   * Deep learning book by Ian Goodfellow: http://www.deeplearningbook.org/. Very detailed reference book. 
